@@ -8,7 +8,7 @@ Repo: https://github.com/ucsb-cs156-f22/jpa02-Gopu2001
   https://cs156-f22-jpa02-cgaucho.herokuapp.com
 
 
-On Heroku: https://cs156-f22-jpa02-cgaucho.herokuapp.com
+On Heroku: https://jpa02-akapoor202.herokuapp.com/
 
 
 # About this repo
